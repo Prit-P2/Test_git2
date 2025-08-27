@@ -1,2 +1,2 @@
 # Test_git2
-Test
+This is the test file for git
